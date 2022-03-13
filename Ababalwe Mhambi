@@ -1,0 +1,13 @@
+Ababalwe Mhambi 221507000
+PROGRAMMING IN JAVA
+Integrated development environments (IDE) are applications that makes easy  the development of other applications. There are three most basic parts of the Java ecosystem are the Java Virtual Machine (JVM), the Java Runtime Environment (JRE), and the Java Development Kit (JDK), which are supply parts that are supplied by Java implementations.  Designed to encompass all programming tasks in one application, one of the main benefits of an IDE is that they offer a central interface with all the tools a developer needs, including:
+
+	Code editor : Designed for writing and correct the source code, these editors are important from text editors because work to also simplify  the process of writing and  correct the code for developers.
+
+	Compiler: Compilers convert source code that is written by a human readable language in a form of computers that can execute.
+
+	Debugger: Debuggers are used during checking and can assist developers to debug their application programs.
+
+	Build automation tools: These can assist to automate developer tasks that are extra common to keep time.
+
+
